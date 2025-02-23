@@ -1,0 +1,14 @@
+[package]
+name = "Breachly"
+version = "0.1.0"
+authors = ["Skye Benson <skyebenson@protonmail.com>"]
+description = "A personal project managment command-line tool"
+categories = ["command-line-utilities"]
+keywords = ["cli"]
+readme = "README.md"
+homepage = "https://github.com/skyeBreach/breachly"
+repository = "https://github.com/skyeBreach/breachly"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
