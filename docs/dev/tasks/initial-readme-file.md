@@ -1,11 +1,11 @@
 ---
 created: 2025-02-25T05:53:10.360Z
-updated: 2025-02-25T11:35:21.265Z
+updated: 2025-02-27T11:11:12.450Z
 assigned: ""
 progress: 0
 tags:
-  - docs
-  - v0.1.0
+  - 'type:docs'
+  - 'version:0.1.0'
 started: 2025-02-25T00:00:00.000Z
 ---
 
@@ -34,5 +34,3 @@ README Repository badges
 
 - [x] Badges to use, and order of placement
 - [ ] Implement all badges
-
-

@@ -1,12 +1,11 @@
 ---
 created: 2025-02-23T16:19:41.701Z
-updated: 2025-02-25T11:30:05.329Z
+updated: 2025-02-27T11:08:44.421Z
 assigned: ""
 progress: 0
 tags:
-  - docs
-  - marketing
-  - v1.0.0
+  - 'type:docs'
+  - 'scope:marketing'
 ---
 
 # Project Logo

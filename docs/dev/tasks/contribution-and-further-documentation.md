@@ -4,7 +4,7 @@ updated: 2025-02-27T04:19:11.441Z
 assigned: ""
 progress: 0
 tags:
-  - docs
+  - 'type:docs'
 ---
 
 # Contribution and Further Documentation

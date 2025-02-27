@@ -4,8 +4,8 @@ updated: 2025-02-27T04:03:43.384Z
 assigned: ""
 progress: 0
 tags:
-  - docs
-  - v0.1.0
+  - 'type:docs'
+  - 'version:0.1.0'
 started: 2025-02-27T04:03:43.384Z
 ---
 

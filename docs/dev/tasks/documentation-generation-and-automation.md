@@ -1,12 +1,11 @@
 ---
 created: 2025-02-25T03:11:57.410Z
-updated: 2025-02-25T11:29:47.886Z
+updated: 2025-02-27T11:08:39.116Z
 assigned: ""
 progress: 0
 tags:
-  - docs
-  - tooling
-  - v1.0.0
+  - 'type:build'
+  - 'scope:tooling'
 ---
 
 # Documentation Generation and Automation

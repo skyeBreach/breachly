@@ -1,12 +1,11 @@
 ---
 created: 2025-02-25T02:58:46.351Z
-updated: 2025-02-25T11:29:41.413Z
+updated: 2025-02-27T11:08:50.263Z
 assigned: ""
 progress: 0
 tags:
-  - financial
-  - docs
-  - v1.0.0
+  - 'type:ops'
+  - 'scope:financial'
 ---
 
 # Funding Provider
