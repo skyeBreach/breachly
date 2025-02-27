@@ -3,6 +3,7 @@
 
 # Local
 *.local.*
+*.local**
 
 # Developer-Specific
 .dev/
