@@ -62,9 +62,9 @@ these intended goals whilst keeping a good level portability, high performance, 
 size.
 
 BreachTaskOps utilizes the Rust language, for its runtime systems, to achieve high performance whilst still being
-memory-safe and largly portable. When initially designing BreachTaskOps we did examine other options for runtime languages
-but most did not meet our criterion, a list of these languages and our reasoning for not using them can be found in our
-[design philosophy](docs/pages/design-philosophy.md#why-not-this-language).
+memory-safe and largly portable. When initially designing BreachTaskOps we did examine other options for runtime
+languages but most did not meet our criterion, a list of these languages and our reasoning for not using them can be
+found in our [FAQ](docs/faq#why-didnt-you-choose-x-language).
 
 BreachTaskOps is inspired by several other command-line, TUI, and GUI task/project management tools, so if BreachTaskOps
 does not meet your criteria then maybe one of [these projects](#acknowledgements) will.
@@ -132,7 +132,7 @@ information on how to do this.
 
 ## Documentation
 
-Documentation can currently be found in the [docs](docs/pages/index.md) folder of this repository.
+Documentation can currently be found in the [docs](docs/index.md) folder of this repository.
 
 Once we have the documentation hosted externally this section will be updated and will provide the relevant links.
 
@@ -160,19 +160,19 @@ To provide feedback, present an idea, ask a question, or show off your usage ple
 If you find a bug or want to request a feature you can currently do so via our issue tracker on
 [GitHub](https://github.com/skyeBreach/breachtaskops/issues).
 
-You can also email us to provide direct feedback at [skyebreach@proton.me](mailto:skyebreach@proton.me).
+You can also email us to provide direct feedback at <skyebreach@proton.me>.
 
 ## Roadmap
 
-Please refer to the [roadmap](docs/pages/roadmap.md) for a full list of planned features.
+Please refer to the [roadmap](docs/roadmap.md) for a full list of planned features.
 
 ## Authors and Contributors
 
 BreachTaskOps is primarily maintained by the following individuals,
 
-- [@skyeBreach](https://github.com/skyeBreach) <[skyebreach@proton.me](mailto:skyebreach@proton.me)>
+- [@skyeBreach](https://github.com/skyeBreach) <skyebreach@proton.me>
 
-Please refer to the [authors](docs/pages/authors.md) document for a full list of contributors and their details.
+Please refer to the [authors](docs/authors.md) document for a full list of contributors and their details.
 
 ## Acknowledgements
 
