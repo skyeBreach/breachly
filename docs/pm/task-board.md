@@ -13,6 +13,7 @@ This document is used by the kanbn VSCode extension and acts to store all projec
 - [pre-release-project-task-management-system](tasks/pre-release-project-task-management-system.md)
 - [contribution-and-further-documentation](tasks/contribution-and-further-documentation.md)
 - [changelog-generation](tasks/changelog-generation.md)
+- [build-and-deploy-documentation-site](tasks/build-and-deploy-documentation-site.md)
 
 ## Ready
 

@@ -1,10 +1,4 @@
 {
-    "startedColumns": [
-        "In Progress"
-    ],
-    "completedColumns": [
-        "Done"
-    ],
     "mainFolder": "docs/pm",
     "indexFile": "task-board.md",
     "taskFolder": "tasks",
