@@ -5,7 +5,7 @@ title: Authors
 
 # Authors <!-- omit from toc -->
 
-This file serves to showcase the internal team of authors for BreachTaskOps as well as any contributors that have worked
+This file serves to showcase the internal team of authors for BreachOps-Task as well as any contributors that have worked
 on it. We want to thank everyone (and any contributor who is not) included by this document for their amazing work, you
 guys are amazing!
 
@@ -31,7 +31,7 @@ it does.
 
 ## Team Members
 
-This section lists all internal team members (maintainers, developers, etc) for BreachTaskOps.
+This section lists all internal team members (maintainers, developers, etc) for BreachOps-Task.
 
 <!-- #region(collapsed) Team Members Formatting Guide and Example(s) -->
 <details><summary>Formatting Guide and Example</summary><hr/>
@@ -56,23 +56,23 @@ Example:
 
 ### Maintainers
 
-The following is a comprehensive list of all internal maintainers that work on BreachTaskOps,
+The following is a comprehensive list of all internal maintainers that work on BreachOps-Task,
 
 - __[Skye Benson](https://github.com/skyeBreach)__ (<skyebreach@proton.me>)
 
-  @skyeBreach is the current primary maintainer and creator of BreachTaskOps; Because of this she has written a large
+  @skyeBreach is the current primary maintainer and creator of BreachOps-Task; Because of this she has written a large
   portion of the current code base and documentation. She initially decided to create this project as a way to learn the
   Rust programming language and due to frustrations with the other task/project/time management command-line apps.
 
 ### Developers
 
-The following is a comprehensive list of all internal developers that work on BreachTaskOps,
+The following is a comprehensive list of all internal developers that work on BreachOps-Task,
 
-> *There are currently no internal developers that work on BreachTaskOps*
+> *There are currently no internal developers that work on BreachOps-Task*
 
 ## Contributors
 
-This section lists all contributors, who are not internal team members, that worked on BreachTaskOps.
+This section lists all contributors, who are not internal team members, that worked on BreachOps-Task.
 
 <!-- #region(collapsed) Contributors Formatting Guide and Example(s) -->
 <details><summary>Formatting Guide and Example</summary>
@@ -92,4 +92,4 @@ Example:
 </details>
 <!-- #endregion -->
 
-> *There have been no non-internal contributors or contributions to BreachTaskOps*
+> *There have been no non-internal contributors or contributions to BreachOps-Task*

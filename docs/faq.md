@@ -5,9 +5,9 @@ title: FAQ
 
 # Frequently Asked Questions <!-- omit from toc -->
 
-This document goes through the most frequently asked questions we receive about BreachTaskOps.
+This document goes through the most frequently asked questions we receive about BreachOps-Task.
 
-Due to BreachTaskOps being very early in developmnent we have yet to receive any questions, so for now we have included
+Due to BreachOps-Task being very early in developmnent we have yet to receive any questions, so for now we have included
 some potential FAQ's to fill it.
 
 ## Table of Contents <!-- omit from toc -->
@@ -17,7 +17,7 @@ some potential FAQ's to fill it.
 
 ## Really, another task management command-line app?
 
-We decided to develop BreachTaskOps for a few reasons, these reasons are,
+We decided to develop BreachOps-Task for a few reasons, these reasons are,
 
 1. A task management command-line app is a simple enough project to learn the Rust language whilst also being complex
 enough to challenge us.
