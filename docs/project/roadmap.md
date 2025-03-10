@@ -299,9 +299,5 @@ We welcome contributions from the community! If you'd like to help with BreachTa
 > To view the latest updates, head over to the [task board](./pm/task-board.md) doc or checkout our community.
 >
 
----
-
-## Footnotes <!-- omit from toc -->
-
 [^keep-info-except]:    An exception to this principal is when information has been provided in error, such as a
                         spelling error, or accidental inclusion of non-public information.
