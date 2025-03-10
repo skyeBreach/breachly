@@ -1,3 +1,8 @@
+---
+id: docs-project-taskboard
+title: BreachOps-Task Task Board
+---
+
 # BreachOps-Task Task Board
 
 This document is used by the kanbn VSCode extension and acts to store all project tasks during early development.
