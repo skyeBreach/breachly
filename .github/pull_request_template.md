@@ -15,8 +15,8 @@
     - A mandatory item is one that is not marked by the an 'Optional' comment next to it
 
 * Important PR information to read before submitting:
-- This repository adheres to the [Code of Conduct](https://github.com/skyebreach/breachtaskops/blob/HEAD/CODE_OF_CONDUCT.md)
-- Make sure you read the [contributing guidelines](https://github.com/skyebreach/breachtaskops/blob/HEAD/CONTRIBUTING.md)
+- This repository adheres to the [Code of Conduct](https://github.com/skyebreach/breachops-task/blob/HEAD/CODE_OF_CONDUCT.md)
+- Make sure you read the [contributing guidelines](https://github.com/skyebreach/breachops-task/blob/HEAD/CONTRIBUTING.md)
 
 - Keep your PR as small as possible, we are volunteers and cannot be expected to read large pull requests
 
@@ -80,8 +80,8 @@ Is this a breaking change (Yes/No):
 ### Developer Guidelines
 <!-- This sections checklists focus on the guidelines you as the developer must have read/adhered to with this PR -->
 <!-- Ticking a box in this section is you as the developer agreeing to these guidelines and codes -->
-- [ ] I have read and agree to the [**Code of Conduct**](https://github.com/skyebreach/breachtaskops/blob/HEAD/CODE_OF_CONDUCT.md)
-- [ ] I have read and agree to the  [**Contributing Guidelines**](https://github.com/skyebreach/breachtaskops/blob/HEAD/CONTRIBUTING.md)
+- [ ] I have read and agree to the [**Code of Conduct**](https://github.com/skyebreach/breachops-task/blob/HEAD/CODE_OF_CONDUCT.md)
+- [ ] I have read and agree to the  [**Contributing Guidelines**](https://github.com/skyebreach/breachops-task/blob/HEAD/CONTRIBUTING.md)
 
 ### Code Standards, Formatting, and Style
 <!-- This section ensures that you as the developer have adhered to the correct standards for this project -->
