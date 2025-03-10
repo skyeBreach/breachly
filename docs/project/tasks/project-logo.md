@@ -10,7 +10,7 @@ tags:
 
 # Project Logo
 
-A custom logo for BreachTaskOps needs to be designed and created to replace the "Breached Sky Studios" logo that is temporarily being used.
+A custom logo for BreachOps-Task needs to be designed and created to replace the "Breached Sky Studios" logo that is temporarily being used.
 
 ## Sub-tasks
 

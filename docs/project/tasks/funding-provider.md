@@ -10,7 +10,7 @@ tags:
 
 # Funding Provider
 
-A funding provider needs to be found for BreachTaskOps to allow any user to contribute financially to the project.
+A funding provider needs to be found for BreachOps-Task to allow any user to contribute financially to the project.
 
 Potential funding providers:
 

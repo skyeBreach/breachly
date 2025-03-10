@@ -1,4 +1,4 @@
-# BreachTaskOps Task Board
+# BreachOps-Task Task Board
 
 This document is used by the kanbn VSCode extension and acts to store all project tasks during early development.
 
@@ -14,6 +14,7 @@ This document is used by the kanbn VSCode extension and acts to store all projec
 - [contribution-and-further-documentation](tasks/contribution-and-further-documentation.md)
 - [changelog-generation](tasks/changelog-generation.md)
 - [build-and-deploy-documentation-site](tasks/build-and-deploy-documentation-site.md)
+- [automatic-formatting-packages-and-configs](tasks/automatic-formatting-packages-and-configs.md)
 
 ## Ready
 
