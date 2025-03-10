@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "breachtaskops"
+name = "breachops-task"
 version = "0.1.0"
 dependencies = [
  "bincode",
