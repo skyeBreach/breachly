@@ -3,16 +3,16 @@
 <!-- #region(collapsed) README Header -->
 <p align="center">
     <img
-        alt="BreachTaskOps"
+        alt="BreachOps-Task"
         src="./assets/logo_150x150.png"
         width=125px
         align="center"
     />
-    <h1 align="center">BreachTaskOps</h1>
+    <h1 align="center">BreachOps-Task</h1>
 </p>
-<p align="center">Breach through your project blockers and manage your tasks effortlessly with BreachTaskOps!</p>
+<p align="center">Breach through your project blockers and manage your tasks effortlessly with BreachOps-Task!</p>
 <p align="center">
-    &lt;<a href="https://github.com/skyeBreach/breachtaskops">Website</a>&gt;
+    &lt;<a href="https://github.com/skyeBreach/breachops-task">Website</a>&gt;
     <span>&nbsp;&#8226;&nbsp;</span>
     &lt;<a href="./docs/pages/index.md">Documentation</a>&gt;
     <span>&nbsp;&#8226;&nbsp;</span>
@@ -37,11 +37,11 @@
     -->
     <img
         alt="License Badge"
-        src="https://flat.badgen.net/github/license/skyeBreach/breachtaskops"
+        src="https://flat.badgen.net/github/license/skyeBreach/breachops-task"
     />
     <img
         alt="GitHub Stars Badge"
-        src="https://flat.badgen.net/github/stars/skyeBreach/breachtaskops"
+        src="https://flat.badgen.net/github/stars/skyeBreach/breachops-task"
     />
 </p>
 <!-- #endregion -->
@@ -49,24 +49,24 @@
 > [!CAUTION]
 > **Early Development Warning**
 >
-> Due to BreachTaskOps being very early in development it is currently **NOT** recommended to use it in any production
+> Due to BreachOps-Task being very early in development it is currently **NOT** recommended to use it in any production
 > environment.
 >
 > If you choose to ignore the above **WARNING**, then you do so at your **OWN** risk.
 
-BreachTaskOps is a personal project and task management command-line tool created to help you breach through your
+BreachOps-Task is a personal project and task management command-line tool created to help you breach through your
 project blockers with minimal effort.
 
-BreachTaskOps has been designed to be as developer-friendly, configurable, and flexible as possible; it achieves
+BreachOps-Task has been designed to be as developer-friendly, configurable, and flexible as possible; it achieves
 these intended goals whilst keeping a good level portability, high performance, and its compiled binaries minimal in
 size.
 
-BreachTaskOps utilizes the Rust language, for its runtime systems, to achieve high performance whilst still being
-memory-safe and largly portable. When initially designing BreachTaskOps we did examine other options for runtime
+BreachOps-Task utilizes the Rust language, for its runtime systems, to achieve high performance whilst still being
+memory-safe and largly portable. When initially designing BreachOps-Task we did examine other options for runtime
 languages but most did not meet our criterion, a list of these languages and our reasoning for not using them can be
 found in our [FAQ](docs/faq#why-didnt-you-choose-x-language).
 
-BreachTaskOps is inspired by several other command-line, TUI, and GUI task/project management tools, so if BreachTaskOps
+BreachOps-Task is inspired by several other command-line, TUI, and GUI task/project management tools, so if BreachOps-Task
 does not meet your criteria then maybe one of [these projects](#acknowledgements) will.
 
 ## Table of Contents <!-- omit from toc -->
@@ -85,7 +85,7 @@ does not meet your criteria then maybe one of [these projects](#acknowledgements
 
 ## Features
 
-BreachTaskOps supports the following, non-comprehensive, list of features:
+BreachOps-Task supports the following, non-comprehensive, list of features:
 
 - Free and open-source
 - Developer-friendly
@@ -101,10 +101,10 @@ Due to the early stage in development, the features listed here are the intended
 
 ## Installation
 
-As BreachTaskOps is still early in development it has a limited number of installation options, we intend to improve
+As BreachOps-Task is still early in development it has a limited number of installation options, we intend to improve
 this later in its life cycle.
 
-BreachTaskOps can currently be installed via the following methods:
+BreachOps-Task can currently be installed via the following methods:
 
 ### Cargo
 
@@ -118,30 +118,30 @@ BreachTaskOps can currently be installed via the following methods:
 Use the following command to install via Cargo:
 
 ```shell
-cargo install --locked breachtaskops
+cargo install --locked breachops-task
 ```
 
-Once Cargo finishes running you can start using BreachTaskOps.
+Once Cargo finishes running you can start using BreachOps-Task.
 
 ## Configuration
 
-Currently, due to its early stage of development, BreachTaskOps can not be configured.
+Currently, due to its early stage of development, BreachOps-Task can not be configured.
 
-Once the systems required to configure BreachTaskOps are implemented this section will be updated with the relevant
+Once the systems required to configure BreachOps-Task are implemented this section will be updated with the relevant
 information on how to do this.
 
 ## Documentation
 
-Documentation can currently be found in the [docs](docs/index.md) folder of this repository.
+Documentation can currently be found in the [docs](docs/_index.md) folder of this repository.
 
 Once we have the documentation hosted externally this section will be updated and will provide the relevant links.
 
 ## Contributing
 
-Due to BreachTaskOps being in an early stage of development we are currently not accepting contributions. Once we have
+Due to BreachOps-Task being in an early stage of development we are currently not accepting contributions. Once we have
 decided that this project is mature enough to receive any contributions this section will be updated accordingly.
 
-Please see our [contributing](CONTRIBUTING.md) doc for the current ways you can contribute to BreachTaskOps.
+Please see our [contributing](CONTRIBUTING.md) doc for the current ways you can contribute to BreachOps-Task.
 
 All contributions must adhere to this projects [code of conduct](CODE_OF_CONDUCT.md).
 
@@ -155,20 +155,20 @@ All contributions must adhere to this projects [code of conduct](CODE_OF_CONDUCT
 > We appreciate your understanding and thank you for your patience!
 
 To provide feedback, present an idea, ask a question, or show off your usage please feel free to create a
-[discussion](https://github.com/skyeBreach/breachtaskops/discussions).
+[discussion](https://github.com/skyeBreach/breachops-task/discussions).
 
 If you find a bug or want to request a feature you can currently do so via our issue tracker on
-[GitHub](https://github.com/skyeBreach/breachtaskops/issues).
+[GitHub](https://github.com/skyeBreach/breachops-task/issues).
 
 You can also email us to provide direct feedback at <skyebreach@proton.me>.
 
 ## Roadmap
 
-Please refer to the [roadmap](docs/roadmap.md) for a full list of planned features.
+Please refer to the [roadmap](.dev/docs/roadmap-old.md) for a full list of planned features.
 
 ## Authors and Contributors
 
-BreachTaskOps is primarily maintained by the following individuals,
+BreachOps-Task is primarily maintained by the following individuals,
 
 - [@skyeBreach](https://github.com/skyeBreach) <skyebreach@proton.me>
 
@@ -177,10 +177,10 @@ Please refer to the [authors](docs/authors.md) document for a full list of contr
 ## Acknowledgements
 
 A command-line tool for managing tasks and/or tracking time is obviously not a novel or new idea, so it may come as no
-surprise that BreachTaskOps was inspired by other similar projects. We feel it is only right to acknowledge and give
-credit to these projects, as we know that BreachTaskOps will not suit everyones needs.
+surprise that BreachOps-Task was inspired by other similar projects. We feel it is only right to acknowledge and give
+credit to these projects, as we know that BreachOps-Task will not suit everyones needs.
 
-BreachTaskOps has taken inspiration from the following projects,
+BreachOps-Task has taken inspiration from the following projects,
 
 - [Taskwarrior][taskwarrior] - A Free and open source command line task manager. Flexible, fast, efficient, and unobtrusive.
 - [Taskchampion][taskchampion] - Implements the task storage and synchronization behind Taskwarrior.
@@ -204,7 +204,7 @@ BreachTaskOps has taken inspiration from the following projects,
 
 &copy; 2025 Skye Benson. All Rights Reserved.
 
-BreachTaskOps is distributed under the terms of the MIT license.<br/>
+BreachOps-Task is distributed under the terms of the MIT license.<br/>
 See [LICENSE](LICENSE.txt) for more information on the details of the license.
 
 <!-- #region(collapsed) Links -->
