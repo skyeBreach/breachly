@@ -132,7 +132,7 @@ information on how to do this.
 
 ## Documentation
 
-Documentation can currently be found in the [docs](docs/_index.md) folder of this repository.
+Documentation can currently be found in the [docs](docs/index.md) folder of this repository.
 
 Once we have the documentation hosted externally this section will be updated and will provide the relevant links.
 
@@ -205,7 +205,7 @@ BreachOps-Task has taken inspiration from the following projects,
 &copy; 2025 Skye Benson. All Rights Reserved.
 
 BreachOps-Task is distributed under the terms of the MIT license.<br/>
-See [LICENSE](LICENSE.txt) for more information on the details of the license.
+See [LICENSE](LICENSE) for more information on the details of the license.
 
 <!-- #region(collapsed) Links -->
 <!-- For more info see, https://www.markdownguide.org/basic-syntax/#reference-style-links -->
